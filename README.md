@@ -18,7 +18,7 @@ And I did NOT enjoy it:
 I decided to learn how to work efficiently with CI, joined a Productivity team, and
 spent a few years specializing.
 
-Now, I'm co-founding THE company I wish I had around when I was that Full-Stack Engineer just trying to get things done:
+Now, I co-founded the company I wish I had around when I was that Full-Stack Engineer just trying to get things done:
 
 ### What we make
 
